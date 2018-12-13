@@ -1,0 +1,21 @@
+{
+  "name": "javascripter",
+  "version": "1.0.0",
+  "description": "A Javascript program demonstrating competent use of the language",
+  "main": "tip.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascriptPrograms"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Chris Jones",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
